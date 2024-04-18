@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; }
 
 body {
-    background: rgb(112, 171, 189); padding: 5%; font-family: "Trebuchet MS";
+    background: rgb(19, 19, 19); padding: 5%; font-family: "Trebuchet MS";
 }
 
 #corpo {
@@ -13,9 +13,9 @@ body {
 }
 
 header {
-    background-color: #CCC;
+    background-color: rgb(138, 10, 70);
     padding: 2%;
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 header h1 {
@@ -29,12 +29,12 @@ main {
 }
 
 footer {
-    background: #CCC;
+    background: rgb(138, 10, 70);
     text-align: center;
     padding: 2%;
     border-top: 1px solid #999
 }
 
-td img { 
+td img{
     width: 80px;
 }
